@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>bienvenido a la pagina principal de cursos</h1>
+    <h1>bienvenido a la pagina principal de curso</h1>
 </body>
 </html>
